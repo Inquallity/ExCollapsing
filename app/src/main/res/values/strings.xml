@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExCollapsing</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vestibulum, augue vel gravida dapibus, lorem nisl pharetra eros, a vehicula metus ante non tortor. Aliquam in dui sem. Curabitur venenatis tellus leo, eu hendrerit mauris viverra vitae. Nunc vulputate cursus neque, eu porta mi pulvinar id. Vestibulum ultrices neque ut suscipit eleifend. Fusce placerat orci nec cursus elementum. Cras tellus augue, faucibus vel scelerisque id, lacinia vel neque.
+
+Morbi leo eros, varius eu sollicitudin in, cursus ut mi. Nam vel diam lectus. Nam bibendum auctor ligula non volutpat. Morbi condimentum pellentesque accumsan. Donec nec lorem ac ex rutrum dignissim. Donec volutpat ligula pharetra semper maximus. Phasellus ac libero facilisis, dictum augue et, rutrum dolor. Quisque lobortis fringilla fringilla. Fusce nec commodo nisl, in facilisis elit. Nunc in purus a massa elementum placerat. Etiam velit orci, malesuada sit amet lorem at, lacinia volutpat turpis.
+
+Donec finibus, justo nec maximus dapibus, nisl ligula volutpat nunc, fermentum porta diam lorem quis diam. Quisque odio orci, molestie eu mauris quis, blandit rhoncus neque. Nulla vehicula ornare facilisis. Duis mollis, ante vel faucibus feugiat, justo libero imperdiet nunc, nec laoreet arcu tellus vel lorem. Morbi mattis tincidunt dapibus. Nulla ac nibh nec dui efficitur lobortis. Proin pulvinar aliquam risus, quis pellentesque orci sagittis eget. Ut nec dui pharetra, gravida augue vitae, iaculis nunc. Fusce nec posuere nibh. Duis tempus ante sit amet tortor faucibus porttitor.
+
+Morbi vitae arcu ullamcorper nisl rhoncus fringilla. Fusce varius varius neque et commodo. Nulla semper suscipit felis sed blandit. In placerat nisi non hendrerit iaculis. Fusce eget lobortis erat. Aenean in leo in magna placerat maximus non sed purus. Morbi sit amet ultrices lorem. Phasellus congue rutrum justo, eget pretium neque gravida a. Proin ullamcorper ullamcorper blandit. Fusce mauris ex, gravida sed lectus sed, placerat egestas mauris. Quisque at neque a nibh auctor lacinia. Integer at leo lacus.
+
+Vestibulum orci dolor, malesuada a efficitur quis, euismod sit amet ante. Praesent id tellus at mauris mattis porta. Phasellus sit amet metus sit amet felis blandit imperdiet eget et ante. Phasellus sed tincidunt nulla, nec rhoncus lectus. Integer tristique urna arcu, eleifend cursus justo rutrum sed. Nullam sed arcu sed odio varius gravida. Curabitur et lorem magna. Duis nec diam condimentum, accumsan dui sit amet, hendrerit ex. Sed maximus mollis urna, in tempor nulla vestibulum in.</string>
+</resources>
